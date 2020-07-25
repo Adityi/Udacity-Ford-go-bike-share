@@ -45,3 +45,5 @@ checked the duration of rides in month and day according to 2 types of
 customers, and than number of rides too. In last section, I combined all 3 things, 
 type of customer, rides duration and month/days to check the whole
 picture altogether.
+
+This is the link to presentation for the findings : file:///C:/Users/Adityi/Desktop/Ford_bike_project/Bikes_slide_deck.slides.html#/
